@@ -42,8 +42,8 @@ afterEvaluate {
                 from components.release
 
                 groupId = 'com.github.geekaurora'
-                artifactId = 'image-preview-compose'
-                version = '1.0'
+                artifactId = 'LibararyDemo'
+                version = '1.3'
             }
         }
     }
