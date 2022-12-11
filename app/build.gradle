@@ -41,5 +41,6 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.4'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.0'
 
-    implementation project(':TestLib')
+//    implementation project(':TestLib')
+    implementation 'com.github.geekaurora:LibararyDemo:1.0'
 }
